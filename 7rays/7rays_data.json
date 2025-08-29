@@ -1,0 +1,350 @@
+{
+  "rays": {
+    "1": {
+      "name": "Will or Power",
+      "quality": "Will to manifest, Divine Purpose, Leadership",
+      "color": "#FF0000",
+      "planetary_ruler": "Vulcan (hidden)",
+      "note": "DO",
+      "element": "Fire",
+      "purpose": "To initiate and destroy",
+      "virtue": "Strength, courage, steadfastness, truthfulness",
+      "vice": "Pride, ambition, wilfulness, hardness, arrogance",
+      "keywords": [
+        "Power",
+        "Will",
+        "Purpose",
+        "Leadership",
+        "Initiative"
+      ]
+    },
+    "2": {
+      "name": "Love-Wisdom",
+      "quality": "Inclusive love, Wisdom through experience",
+      "color": "#0066FF",
+      "planetary_ruler": "Jupiter",
+      "note": "RE",
+      "element": "Water",
+      "purpose": "To teach and heal",
+      "virtue": "Calm, strength, patience, endurance, love of truth, faithfulness, intuition, clear intelligence, serene temper",
+      "vice": "Over-absorption in study, coldness, indifference, contempt of mental limitations in others",
+      "keywords": [
+        "Love",
+        "Wisdom",
+        "Teaching",
+        "Healing",
+        "Intuition"
+      ]
+    },
+    "3": {
+      "name": "Active Intelligence",
+      "quality": "Creative intelligence, Adaptability",
+      "color": "#FFFF00",
+      "planetary_ruler": "Saturn",
+      "note": "MI",
+      "element": "Air",
+      "purpose": "To manipulate matter and energy",
+      "virtue": "Wide views on all abstract questions, sincerity of purpose, clear intellect, capacity for concentration, patience, caution, absence of the tendency to worry over trifles",
+      "vice": "Intellectual pride, coldness, isolation, inaccuracy in details, absent-mindedness, obstinacy, selfishness, overmuch criticism of others",
+      "keywords": [
+        "Intelligence",
+        "Creativity",
+        "Manipulation",
+        "Mental",
+        "Adaptability"
+      ]
+    },
+    "4": {
+      "name": "Harmony through Conflict",
+      "quality": "Beauty, Art, Bridge-building, Mediation",
+      "color": "#00FF00",
+      "planetary_ruler": "Mercury",
+      "note": "FA",
+      "element": "Earth-Water",
+      "purpose": "To harmonize and beautify",
+      "virtue": "Strong affections, sympathy, physical courage, generosity, devotion, intellect, perception",
+      "vice": "Self-centeredness, worrying, inaccuracy, lack of confidence, lack of moral courage",
+      "keywords": [
+        "Harmony",
+        "Beauty",
+        "Conflict",
+        "Art",
+        "Mediation",
+        "Bridge"
+      ],
+      "special_significance": "Bridge between higher and lower, humanity's ray, creative resolution"
+    },
+    "5": {
+      "name": "Concrete Knowledge",
+      "quality": "Science, Research, Precision",
+      "color": "#FF8000",
+      "planetary_ruler": "Venus",
+      "note": "SOL",
+      "element": "Fire-Air",
+      "purpose": "To know and understand",
+      "virtue": "Strictly accurate statements, justice, perseverance, common sense, uprightness, independence, keen intellect",
+      "vice": "Harsh criticism, narrowness, arrogance, unforgiving temper, lack of sympathy and reverence, prejudice",
+      "keywords": [
+        "Science",
+        "Research",
+        "Knowledge",
+        "Precision",
+        "Analysis"
+      ]
+    },
+    "6": {
+      "name": "Devotion and Idealism",
+      "quality": "Devotion, Idealism, Religious fervor",
+      "color": "#FF00FF",
+      "planetary_ruler": "Mars/Neptune",
+      "note": "LA",
+      "element": "Water-Fire",
+      "purpose": "To idealize and devote",
+      "virtue": "Devotion, single-mindedness, love, tenderness, intuition, loyalty, reverence",
+      "vice": "Selfish and jealous love, over-leaning on others, partiality, self-deception, sectarianism, superstition, prejudice, over-rapid conclusions, fiery anger",
+      "keywords": [
+        "Devotion",
+        "Idealism",
+        "Religion",
+        "Faith",
+        "Emotion"
+      ]
+    },
+    "7": {
+      "name": "Ceremonial Order",
+      "quality": "Organization, Ritual, Magic, Transformation",
+      "color": "#8000FF",
+      "planetary_ruler": "Uranus",
+      "note": "SI",
+      "element": "Earth-Air",
+      "purpose": "To organize and ritualize",
+      "virtue": "Strength, perseverance, courage, courtesy, extreme care in details, self-reliance",
+      "vice": "Formalism, bigotry, pride, narrowness, superficial judgments, self-opinion overmuch",
+      "keywords": [
+        "Order",
+        "Ceremony",
+        "Magic",
+        "Ritual",
+        "Organization",
+        "Transformation"
+      ]
+    }
+  },
+  "planes": {
+    "1": {
+      "name": "Logoic Plane",
+      "alternate_names": [
+        "Adi",
+        "Divine"
+      ],
+      "consciousness_state": "Logoic consciousness, Divine Will",
+      "element": "Pure Spirit",
+      "color": "#FFFFFF",
+      "frequency": 7.23,
+      "geometric_form": "Point",
+      "description": "Plane of divine purpose and will, source of all manifestation",
+      "sub_planes": 7,
+      "keywords": [
+        "Divine",
+        "Will",
+        "Source",
+        "Unity"
+      ]
+    },
+    "2": {
+      "name": "Monadic Plane",
+      "alternate_names": [
+        "Anupadaka",
+        "Primordial"
+      ],
+      "consciousness_state": "Monadic consciousness, Divine Love-Wisdom",
+      "element": "Spirit-Matter",
+      "color": "#E6E6FA",
+      "frequency": 6.19,
+      "geometric_form": "Line",
+      "description": "Plane of the Monad, divine spark, love-wisdom aspect",
+      "sub_planes": 7,
+      "keywords": [
+        "Monad",
+        "Love-Wisdom",
+        "Divine Spark",
+        "Duality"
+      ]
+    },
+    "3": {
+      "name": "Atmic Plane",
+      "alternate_names": [
+        "Spiritual",
+        "Nirvanic"
+      ],
+      "consciousness_state": "Spiritual will, Atmic consciousness",
+      "element": "Spiritual Fire",
+      "color": "#FFD700",
+      "frequency": 5.29,
+      "geometric_form": "Triangle",
+      "description": "Plane of spiritual will, home of the spiritual triad",
+      "sub_planes": 7,
+      "keywords": [
+        "Spiritual",
+        "Will",
+        "Triad",
+        "Trinity"
+      ]
+    },
+    "4": {
+      "name": "Buddhic Plane",
+      "alternate_names": [
+        "Intuitional",
+        "Christ Consciousness"
+      ],
+      "consciousness_state": "Intuitional consciousness, Unity perception",
+      "element": "Pure reason, Intuition",
+      "color": "#00BFFF",
+      "frequency": 4.52,
+      "geometric_form": "Square",
+      "description": "Plane of pure reason and intuition, Christ consciousness, unity awareness",
+      "sub_planes": 7,
+      "keywords": [
+        "Intuition",
+        "Christ",
+        "Unity",
+        "Reason",
+        "Bridge"
+      ],
+      "special_significance": "Bridge between spiritual and personality planes, intuitive perception"
+    },
+    "5": {
+      "name": "Mental Plane",
+      "alternate_names": [
+        "Manasic",
+        "Mind"
+      ],
+      "consciousness_state": "Abstract and concrete thought",
+      "element": "Mental matter",
+      "color": "#FFFF00",
+      "frequency": 3.86,
+      "geometric_form": "Pentagon",
+      "description": "Plane of mind, abstract and concrete thought, ideas and concepts",
+      "sub_planes": 7,
+      "keywords": [
+        "Mind",
+        "Thought",
+        "Ideas",
+        "Concepts",
+        "Mental"
+      ]
+    },
+    "6": {
+      "name": "Astral Plane",
+      "alternate_names": [
+        "Emotional",
+        "Desire",
+        "Kamic"
+      ],
+      "consciousness_state": "Emotional consciousness, Desire",
+      "element": "Emotional/astral matter",
+      "color": "#FF69B4",
+      "frequency": 3.3,
+      "geometric_form": "Hexagon",
+      "description": "Plane of emotions, desires, feelings, astral experiences",
+      "sub_planes": 7,
+      "keywords": [
+        "Emotion",
+        "Desire",
+        "Feeling",
+        "Astral",
+        "Passion"
+      ]
+    },
+    "7": {
+      "name": "Physical Plane",
+      "alternate_names": [
+        "Dense",
+        "Etheric-Physical"
+      ],
+      "consciousness_state": "Physical consciousness, Material awareness",
+      "element": "Dense and etheric matter",
+      "color": "#8B4513",
+      "frequency": 2.82,
+      "geometric_form": "Heptagon",
+      "description": "Plane of dense matter and etheric energies, physical manifestation",
+      "sub_planes": 7,
+      "keywords": [
+        "Physical",
+        "Matter",
+        "Dense",
+        "Etheric",
+        "Material"
+      ]
+    }
+  },
+  "relationships": {
+    "primary_rulerships": {
+      "1": [
+        1,
+        7
+      ],
+      "2": [
+        2,
+        6
+      ],
+      "3": [
+        3,
+        5
+      ],
+      "4": [
+        4
+      ],
+      "5": [
+        5
+      ],
+      "6": [
+        6
+      ],
+      "7": [
+        7
+      ]
+    },
+    "evolutionary_cycles": {
+      "outgoing": "Rays 1,3,5,7 more active in manifestation",
+      "incoming": "Rays 2,4,6 more active in withdrawal/spiritualization"
+    },
+    "fourth_emphasis": {
+      "ray_4": {
+        "significance": "Bridge between higher spiritual triad (rays 1,2,3) and lower quaternary (rays 5,6,7)",
+        "function": "Harmony through conflict, creative resolution",
+        "color_synthesis": "Green - balance of all colors"
+      },
+      "plane_4": {
+        "significance": "Bridge between spiritual planes (1,2,3) and personality planes (5,6,7)",
+        "function": "Intuitive perception, Christ consciousness",
+        "consciousness": "Unity awareness, direct knowing"
+      },
+      "humanity": {
+        "fourth_kingdom": "Humanity is the 4th kingdom, bridge between animal and spiritual",
+        "role": "Mediator between higher and lower kingdoms"
+      }
+    }
+  },
+  "color_mappings": {
+    "primary_triad": {
+      "red": 1,
+      "blue": 2,
+      "yellow": 3
+    },
+    "secondary_synthesis": {
+      "green": 4,
+      "orange": 5,
+      "indigo": 6,
+      "violet": 7
+    },
+    "plane_frequencies": {
+      "frequency_progression": "descending from white light to dense matter"
+    }
+  },
+  "metadata": {
+    "source": "Alice Bailey - Treatise on the Seven Rays",
+    "extracted_by": "7rays_visualization_project",
+    "note": "These are core esoteric definitions for visualization purposes"
+  }
+}

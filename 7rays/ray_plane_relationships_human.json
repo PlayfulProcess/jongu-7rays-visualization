@@ -1,0 +1,1040 @@
+{
+  "context": "human",
+  "total_relationships": 49,
+  "relationships": [
+    {
+      "ray": 1,
+      "plane": 1,
+      "strength": 0.9,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#FF0000",
+        "plane_color": "#FFFFFF",
+        "blended_color": "#ff1919",
+        "blend_strength": 0.9
+      },
+      "frequency_harmony": {
+        "ray_frequency": 432.0,
+        "plane_frequency": 723.0,
+        "harmonic_ratio": 0.5975103734439834,
+        "consonance": 0.3319559228650138
+      },
+      "evolutionary_function": "Will or Power influencing Logoic Plane in human context"
+    },
+    {
+      "ray": 1,
+      "plane": 2,
+      "strength": 0.4,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FF0000",
+        "plane_color": "#E6E6FA",
+        "blended_color": "#f08a96",
+        "blend_strength": 0.4
+      },
+      "frequency_harmony": {
+        "ray_frequency": 432.0,
+        "plane_frequency": 619.0,
+        "harmonic_ratio": 0.6978998384491115,
+        "consonance": 0.3983268983268984
+      },
+      "evolutionary_function": "Will or Power influencing Monadic Plane in human context"
+    },
+    {
+      "ray": 1,
+      "plane": 3,
+      "strength": 0.6,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#FF0000",
+        "plane_color": "#FFD700",
+        "blended_color": "#ff5600",
+        "blend_strength": 0.6
+      },
+      "frequency_harmony": {
+        "ray_frequency": 432.0,
+        "plane_frequency": 529.0,
+        "harmonic_ratio": 0.8166351606805293,
+        "consonance": 0.5216962524654832
+      },
+      "evolutionary_function": "Will or Power influencing Atmic Plane in human context"
+    },
+    {
+      "ray": 1,
+      "plane": 4,
+      "strength": 0.36,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FF0000",
+        "plane_color": "#00BFFF",
+        "blended_color": "#5b7aa3",
+        "blend_strength": 0.36
+      },
+      "frequency_harmony": {
+        "ray_frequency": 432.0,
+        "plane_frequency": 451.99999999999994,
+        "harmonic_ratio": 0.9557522123893807,
+        "consonance": 0.8188405797101455
+      },
+      "evolutionary_function": "Will or Power influencing Buddhic Plane in human context"
+    },
+    {
+      "ray": 1,
+      "plane": 5,
+      "strength": 0.55,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#FF0000",
+        "plane_color": "#FFFF00",
+        "blended_color": "#ff7200",
+        "blend_strength": 0.55
+      },
+      "frequency_harmony": {
+        "ray_frequency": 432.0,
+        "plane_frequency": 386.0,
+        "harmonic_ratio": 1.1191709844559585,
+        "consonance": 0.8941098610191928
+      },
+      "evolutionary_function": "Will or Power influencing Mental Plane in human context"
+    },
+    {
+      "ray": 1,
+      "plane": 6,
+      "strength": 0.22000000000000003,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FF0000",
+        "plane_color": "#FF69B4",
+        "blended_color": "#ff518c",
+        "blend_strength": 0.22000000000000003
+      },
+      "frequency_harmony": {
+        "ray_frequency": 432.0,
+        "plane_frequency": 330.0,
+        "harmonic_ratio": 1.309090909090909,
+        "consonance": 0.8918918918918921
+      },
+      "evolutionary_function": "Will or Power influencing Astral Plane in human context"
+    },
+    {
+      "ray": 1,
+      "plane": 7,
+      "strength": 0.8,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#FF0000",
+        "plane_color": "#8B4513",
+        "blended_color": "#e70d03",
+        "blend_strength": 0.8
+      },
+      "frequency_harmony": {
+        "ray_frequency": 432.0,
+        "plane_frequency": 282.0,
+        "harmonic_ratio": 1.5319148936170213,
+        "consonance": 0.8623853211009175
+      },
+      "evolutionary_function": "Will or Power influencing Physical Plane in human context"
+    },
+    {
+      "ray": 2,
+      "plane": 1,
+      "strength": 0.44000000000000006,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#0066FF",
+        "plane_color": "#FFFFFF",
+        "blended_color": "#8ebbff",
+        "blend_strength": 0.44000000000000006
+      },
+      "frequency_harmony": {
+        "ray_frequency": 486.0,
+        "plane_frequency": 723.0,
+        "harmonic_ratio": 0.6721991701244814,
+        "consonance": 0.378930817610063
+      },
+      "evolutionary_function": "Love-Wisdom influencing Logoic Plane in human context"
+    },
+    {
+      "ray": 2,
+      "plane": 2,
+      "strength": 0.9900000000000001,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#0066FF",
+        "plane_color": "#E6E6FA",
+        "blended_color": "#0267fe",
+        "blend_strength": 0.9900000000000001
+      },
+      "frequency_harmony": {
+        "ray_frequency": 486.0,
+        "plane_frequency": 619.0,
+        "harmonic_ratio": 0.7851373182552503,
+        "consonance": 0.48208722741433013
+      },
+      "evolutionary_function": "Love-Wisdom influencing Monadic Plane in human context"
+    },
+    {
+      "ray": 2,
+      "plane": 3,
+      "strength": 0.44000000000000006,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#0066FF",
+        "plane_color": "#FFD700",
+        "blended_color": "#8ea570",
+        "blend_strength": 0.44000000000000006
+      },
+      "frequency_harmony": {
+        "ray_frequency": 486.0,
+        "plane_frequency": 529.0,
+        "harmonic_ratio": 0.9187145557655955,
+        "consonance": 0.711021505376344
+      },
+      "evolutionary_function": "Love-Wisdom influencing Atmic Plane in human context"
+    },
+    {
+      "ray": 2,
+      "plane": 4,
+      "strength": 1,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#0066FF",
+        "plane_color": "#00BFFF",
+        "blended_color": "#0066ff",
+        "blend_strength": 1
+      },
+      "frequency_harmony": {
+        "ray_frequency": 486.0,
+        "plane_frequency": 451.99999999999994,
+        "harmonic_ratio": 1.0752212389380533,
+        "consonance": 0.7472838923004259
+      },
+      "evolutionary_function": "Intuitive wisdom expressing through Buddhic Plane"
+    },
+    {
+      "ray": 2,
+      "plane": 5,
+      "strength": 0.66,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#0066FF",
+        "plane_color": "#FFFF00",
+        "blended_color": "#569aa8",
+        "blend_strength": 0.66
+      },
+      "frequency_harmony": {
+        "ray_frequency": 486.0,
+        "plane_frequency": 386.0,
+        "harmonic_ratio": 1.2590673575129534,
+        "consonance": 0.956629491945477
+      },
+      "evolutionary_function": "Love-Wisdom influencing Mental Plane in human context"
+    },
+    {
+      "ray": 2,
+      "plane": 6,
+      "strength": 0.77,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#0066FF",
+        "plane_color": "#FF69B4",
+        "blended_color": "#3a66ed",
+        "blend_strength": 0.77
+      },
+      "frequency_harmony": {
+        "ray_frequency": 486.0,
+        "plane_frequency": 330.0,
+        "harmonic_ratio": 1.4727272727272727,
+        "consonance": 0.8799999999999998
+      },
+      "evolutionary_function": "Love-Wisdom influencing Astral Plane in human context"
+    },
+    {
+      "ray": 2,
+      "plane": 7,
+      "strength": 0.22000000000000003,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#0066FF",
+        "plane_color": "#8B4513",
+        "blended_color": "#6c4c46",
+        "blend_strength": 0.22000000000000003
+      },
+      "frequency_harmony": {
+        "ray_frequency": 486.0,
+        "plane_frequency": 282.0,
+        "harmonic_ratio": 1.7234042553191489,
+        "consonance": 0.4723618090452262
+      },
+      "evolutionary_function": "Love-Wisdom influencing Physical Plane in human context"
+    },
+    {
+      "ray": 3,
+      "plane": 1,
+      "strength": 0.5,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#FFFF00",
+        "plane_color": "#FFFFFF",
+        "blended_color": "#ffff7f",
+        "blend_strength": 0.5
+      },
+      "frequency_harmony": {
+        "ray_frequency": 540.0,
+        "plane_frequency": 723.0,
+        "harmonic_ratio": 0.7468879668049793,
+        "consonance": 0.4413919413919414
+      },
+      "evolutionary_function": "Active Intelligence influencing Logoic Plane in human context"
+    },
+    {
+      "ray": 3,
+      "plane": 2,
+      "strength": 0.4,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FFFF00",
+        "plane_color": "#E6E6FA",
+        "blended_color": "#f0f096",
+        "blend_strength": 0.4
+      },
+      "frequency_harmony": {
+        "ray_frequency": 540.0,
+        "plane_frequency": 619.0,
+        "harmonic_ratio": 0.8723747980613893,
+        "consonance": 0.6104536489151873
+      },
+      "evolutionary_function": "Active Intelligence influencing Monadic Plane in human context"
+    },
+    {
+      "ray": 3,
+      "plane": 3,
+      "strength": 0.9,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#FFFF00",
+        "plane_color": "#FFD700",
+        "blended_color": "#fffb00",
+        "blend_strength": 0.9
+      },
+      "frequency_harmony": {
+        "ray_frequency": 540.0,
+        "plane_frequency": 529.0,
+        "harmonic_ratio": 1.0207939508506616,
+        "consonance": 0.9058219178082193
+      },
+      "evolutionary_function": "Active Intelligence influencing Atmic Plane in human context"
+    },
+    {
+      "ray": 3,
+      "plane": 4,
+      "strength": 0.62,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#FFFF00",
+        "plane_color": "#00BFFF",
+        "blended_color": "#9ee660",
+        "blend_strength": 0.62
+      },
+      "frequency_harmony": {
+        "ray_frequency": 540.0,
+        "plane_frequency": 451.99999999999994,
+        "harmonic_ratio": 1.1946902654867257,
+        "consonance": 0.9741379310344833
+      },
+      "evolutionary_function": "Active Intelligence influencing Buddhic Plane in human context"
+    },
+    {
+      "ray": 3,
+      "plane": 5,
+      "strength": 0.8800000000000001,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#FFFF00",
+        "plane_color": "#FFFF00",
+        "blended_color": "#ffff00",
+        "blend_strength": 0.8800000000000001
+      },
+      "frequency_harmony": {
+        "ray_frequency": 540.0,
+        "plane_frequency": 386.0,
+        "harmonic_ratio": 1.3989637305699483,
+        "consonance": 0.7529258777633285
+      },
+      "evolutionary_function": "Active Intelligence influencing Mental Plane in human context"
+    },
+    {
+      "ray": 3,
+      "plane": 6,
+      "strength": 0.22000000000000003,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FFFF00",
+        "plane_color": "#FF69B4",
+        "blended_color": "#ff8a8c",
+        "blend_strength": 0.22000000000000003
+      },
+      "frequency_harmony": {
+        "ray_frequency": 540.0,
+        "plane_frequency": 330.0,
+        "harmonic_ratio": 1.6363636363636365,
+        "consonance": 0.5945945945945944
+      },
+      "evolutionary_function": "Active Intelligence influencing Astral Plane in human context"
+    },
+    {
+      "ray": 3,
+      "plane": 7,
+      "strength": 0.7,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#FFFF00",
+        "plane_color": "#8B4513",
+        "blended_color": "#dcc705",
+        "blend_strength": 0.7
+      },
+      "frequency_harmony": {
+        "ray_frequency": 540.0,
+        "plane_frequency": 282.0,
+        "harmonic_ratio": 1.9148936170212767,
+        "consonance": 0.7014925373134331
+      },
+      "evolutionary_function": "Active Intelligence influencing Physical Plane in human context"
+    },
+    {
+      "ray": 4,
+      "plane": 1,
+      "strength": 0.36,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#00FF00",
+        "plane_color": "#FFFFFF",
+        "blended_color": "#a3ffa3",
+        "blend_strength": 0.36
+      },
+      "frequency_harmony": {
+        "ray_frequency": 576.0,
+        "plane_frequency": 723.0,
+        "harmonic_ratio": 0.7966804979253111,
+        "consonance": 0.49588477366255135
+      },
+      "evolutionary_function": "Harmony through Conflict influencing Logoic Plane in human context"
+    },
+    {
+      "ray": 4,
+      "plane": 2,
+      "strength": 1,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#00FF00",
+        "plane_color": "#E6E6FA",
+        "blended_color": "#00ff00",
+        "blend_strength": 1
+      },
+      "frequency_harmony": {
+        "ray_frequency": 576.0,
+        "plane_frequency": 619.0,
+        "harmonic_ratio": 0.9305331179321487,
+        "consonance": 0.7422062350119905
+      },
+      "evolutionary_function": "Harmony through Conflict influencing Monadic Plane in human context"
+    },
+    {
+      "ray": 4,
+      "plane": 3,
+      "strength": 0.62,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#00FF00",
+        "plane_color": "#FFD700",
+        "blended_color": "#60ef00",
+        "blend_strength": 0.62
+      },
+      "frequency_harmony": {
+        "ray_frequency": 576.0,
+        "plane_frequency": 529.0,
+        "harmonic_ratio": 1.0888468809073724,
+        "consonance": 0.7873697639804381
+      },
+      "evolutionary_function": "Harmony through Conflict influencing Atmic Plane in human context"
+    },
+    {
+      "ray": 4,
+      "plane": 4,
+      "strength": 1,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#00FF00",
+        "plane_color": "#00BFFF",
+        "blended_color": "#00ff00",
+        "blend_strength": 1
+      },
+      "frequency_harmony": {
+        "ray_frequency": 576.0,
+        "plane_frequency": 451.99999999999994,
+        "harmonic_ratio": 1.274336283185841,
+        "consonance": 0.891518737672583
+      },
+      "evolutionary_function": "Bridge consciousness between spiritual and personality realms"
+    },
+    {
+      "ray": 4,
+      "plane": 5,
+      "strength": 0.62,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#00FF00",
+        "plane_color": "#FFFF00",
+        "blended_color": "#60ff00",
+        "blend_strength": 0.62
+      },
+      "frequency_harmony": {
+        "ray_frequency": 576.0,
+        "plane_frequency": 386.0,
+        "harmonic_ratio": 1.4922279792746114,
+        "consonance": 0.9625935162094762
+      },
+      "evolutionary_function": "Harmony through Conflict influencing Mental Plane in human context"
+    },
+    {
+      "ray": 4,
+      "plane": 6,
+      "strength": 0.88,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#00FF00",
+        "plane_color": "#FF69B4",
+        "blended_color": "#1eed15",
+        "blend_strength": 0.88
+      },
+      "frequency_harmony": {
+        "ray_frequency": 576.0,
+        "plane_frequency": 330.0,
+        "harmonic_ratio": 1.7454545454545454,
+        "consonance": 0.4489795918367348
+      },
+      "evolutionary_function": "Harmony through Conflict influencing Astral Plane in human context"
+    },
+    {
+      "ray": 4,
+      "plane": 7,
+      "strength": 0.36,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#00FF00",
+        "plane_color": "#8B4513",
+        "blended_color": "#58870c",
+        "blend_strength": 0.36
+      },
+      "frequency_harmony": {
+        "ray_frequency": 576.0,
+        "plane_frequency": 282.0,
+        "harmonic_ratio": 2.0425531914893615,
+        "consonance": 0.8245614035087725
+      },
+      "evolutionary_function": "Harmony through Conflict influencing Physical Plane in human context"
+    },
+    {
+      "ray": 5,
+      "plane": 1,
+      "strength": 0.22000000000000003,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FF8000",
+        "plane_color": "#FFFFFF",
+        "blended_color": "#ffe3c6",
+        "blend_strength": 0.22000000000000003
+      },
+      "frequency_harmony": {
+        "ray_frequency": 648.0,
+        "plane_frequency": 723.0,
+        "harmonic_ratio": 0.8962655601659751,
+        "consonance": 0.6584699453551913
+      },
+      "evolutionary_function": "Concrete Knowledge influencing Logoic Plane in human context"
+    },
+    {
+      "ray": 5,
+      "plane": 2,
+      "strength": 0.22000000000000003,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FF8000",
+        "plane_color": "#E6E6FA",
+        "blended_color": "#ebcfc3",
+        "blend_strength": 0.22000000000000003
+      },
+      "frequency_harmony": {
+        "ray_frequency": 648.0,
+        "plane_frequency": 619.0,
+        "harmonic_ratio": 1.0468497576736673,
+        "consonance": 0.8102094240837694
+      },
+      "evolutionary_function": "Concrete Knowledge influencing Monadic Plane in human context"
+    },
+    {
+      "ray": 5,
+      "plane": 3,
+      "strength": 0.8800000000000001,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#FF8000",
+        "plane_color": "#FFD700",
+        "blended_color": "#ff8a00",
+        "blend_strength": 0.8800000000000001
+      },
+      "frequency_harmony": {
+        "ray_frequency": 648.0,
+        "plane_frequency": 529.0,
+        "harmonic_ratio": 1.2249527410207939,
+        "consonance": 0.8890756302521009
+      },
+      "evolutionary_function": "Concrete Knowledge influencing Atmic Plane in human context"
+    },
+    {
+      "ray": 5,
+      "plane": 4,
+      "strength": 0.62,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#FF8000",
+        "plane_color": "#00BFFF",
+        "blended_color": "#9e9760",
+        "blend_strength": 0.62
+      },
+      "frequency_harmony": {
+        "ray_frequency": 648.0,
+        "plane_frequency": 451.99999999999994,
+        "harmonic_ratio": 1.433628318584071,
+        "consonance": 0.7508305647840539
+      },
+      "evolutionary_function": "Concrete Knowledge influencing Buddhic Plane in human context"
+    },
+    {
+      "ray": 5,
+      "plane": 5,
+      "strength": 0.9900000000000001,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#FF8000",
+        "plane_color": "#FFFF00",
+        "blended_color": "#ff8100",
+        "blend_strength": 0.9900000000000001
+      },
+      "frequency_harmony": {
+        "ray_frequency": 648.0,
+        "plane_frequency": 386.0,
+        "harmonic_ratio": 1.6787564766839378,
+        "consonance": 0.5280437756497949
+      },
+      "evolutionary_function": "Scientific understanding through concrete mind"
+    },
+    {
+      "ray": 5,
+      "plane": 6,
+      "strength": 0.44000000000000006,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#FF8000",
+        "plane_color": "#FF69B4",
+        "blended_color": "#ff7364",
+        "blend_strength": 0.44000000000000006
+      },
+      "frequency_harmony": {
+        "ray_frequency": 648.0,
+        "plane_frequency": 330.0,
+        "harmonic_ratio": 1.9636363636363636,
+        "consonance": 0.8461538461538461
+      },
+      "evolutionary_function": "Concrete Knowledge influencing Astral Plane in human context"
+    },
+    {
+      "ray": 5,
+      "plane": 7,
+      "strength": 0.66,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#FF8000",
+        "plane_color": "#8B4513",
+        "blended_color": "#d76b06",
+        "blend_strength": 0.66
+      },
+      "frequency_harmony": {
+        "ray_frequency": 648.0,
+        "plane_frequency": 282.0,
+        "harmonic_ratio": 2.297872340425532,
+        "consonance": 0.40170940170940156
+      },
+      "evolutionary_function": "Concrete Knowledge influencing Physical Plane in human context"
+    },
+    {
+      "ray": 6,
+      "plane": 1,
+      "strength": 0.2,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "minimal_connection",
+      "color_blend": {
+        "ray_color": "#FF00FF",
+        "plane_color": "#FFFFFF",
+        "blended_color": "#ffccff",
+        "blend_strength": 0.2
+      },
+      "frequency_harmony": {
+        "ray_frequency": 720.0,
+        "plane_frequency": 723.0,
+        "harmonic_ratio": 0.995850622406639,
+        "consonance": 0.9796747967479675
+      },
+      "evolutionary_function": "Devotion and Idealism influencing Logoic Plane in human context"
+    },
+    {
+      "ray": 6,
+      "plane": 2,
+      "strength": 0.6,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#FF00FF",
+        "plane_color": "#E6E6FA",
+        "blended_color": "#f55cfd",
+        "blend_strength": 0.6
+      },
+      "frequency_harmony": {
+        "ray_frequency": 720.0,
+        "plane_frequency": 619.0,
+        "harmonic_ratio": 1.1631663974151858,
+        "consonance": 0.9078147915357214
+      },
+      "evolutionary_function": "Devotion and Idealism influencing Monadic Plane in human context"
+    },
+    {
+      "ray": 6,
+      "plane": 3,
+      "strength": 0.2,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "minimal_connection",
+      "color_blend": {
+        "ray_color": "#FF00FF",
+        "plane_color": "#FFD700",
+        "blended_color": "#ffac33",
+        "blend_strength": 0.2
+      },
+      "frequency_harmony": {
+        "ray_frequency": 720.0,
+        "plane_frequency": 529.0,
+        "harmonic_ratio": 1.3610586011342154,
+        "consonance": 0.8782512451577201
+      },
+      "evolutionary_function": "Devotion and Idealism influencing Atmic Plane in human context"
+    },
+    {
+      "ray": 6,
+      "plane": 4,
+      "strength": 0.75,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#FF00FF",
+        "plane_color": "#00BFFF",
+        "blended_color": "#bf2fff",
+        "blend_strength": 0.75
+      },
+      "frequency_harmony": {
+        "ray_frequency": 720.0,
+        "plane_frequency": 451.99999999999994,
+        "harmonic_ratio": 1.5929203539823011,
+        "consonance": 0.6827794561933529
+      },
+      "evolutionary_function": "Devotion and Idealism influencing Buddhic Plane in human context"
+    },
+    {
+      "ray": 6,
+      "plane": 5,
+      "strength": 0.44000000000000006,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#FF00FF",
+        "plane_color": "#FFFF00",
+        "blended_color": "#ff8e70",
+        "blend_strength": 0.44000000000000006
+      },
+      "frequency_harmony": {
+        "ray_frequency": 720.0,
+        "plane_frequency": 386.0,
+        "harmonic_ratio": 1.8652849740932642,
+        "consonance": 0.5975232198142414
+      },
+      "evolutionary_function": "Devotion and Idealism influencing Mental Plane in human context"
+    },
+    {
+      "ray": 6,
+      "plane": 6,
+      "strength": 0.9900000000000001,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#FF00FF",
+        "plane_color": "#FF69B4",
+        "blended_color": "#ff01fe",
+        "blend_strength": 0.9900000000000001
+      },
+      "frequency_harmony": {
+        "ray_frequency": 720.0,
+        "plane_frequency": 330.0,
+        "harmonic_ratio": 2.1818181818181817,
+        "consonance": 0.5238095238095241
+      },
+      "evolutionary_function": "Devotional aspiration in emotional nature"
+    },
+    {
+      "ray": 6,
+      "plane": 7,
+      "strength": 0.4,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#FF00FF",
+        "plane_color": "#8B4513",
+        "blended_color": "#b92971",
+        "blend_strength": 0.4
+      },
+      "frequency_harmony": {
+        "ray_frequency": 720.0,
+        "plane_frequency": 282.0,
+        "harmonic_ratio": 2.5531914893617023,
+        "consonance": 0.26553672316384175
+      },
+      "evolutionary_function": "Devotion and Idealism influencing Physical Plane in human context"
+    },
+    {
+      "ray": 7,
+      "plane": 1,
+      "strength": 0.8,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "strong_influence",
+      "color_blend": {
+        "ray_color": "#8000FF",
+        "plane_color": "#FFFFFF",
+        "blended_color": "#9932ff",
+        "blend_strength": 0.8
+      },
+      "frequency_harmony": {
+        "ray_frequency": 810.0,
+        "plane_frequency": 723.0,
+        "harmonic_ratio": 1.120331950207469,
+        "consonance": 0.8987746403835911
+      },
+      "evolutionary_function": "Ceremonial Order influencing Logoic Plane in human context"
+    },
+    {
+      "ray": 7,
+      "plane": 2,
+      "strength": 0.2,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "minimal_connection",
+      "color_blend": {
+        "ray_color": "#8000FF",
+        "plane_color": "#E6E6FA",
+        "blended_color": "#d1b8fb",
+        "blend_strength": 0.2
+      },
+      "frequency_harmony": {
+        "ray_frequency": 810.0,
+        "plane_frequency": 619.0,
+        "harmonic_ratio": 1.308562197092084,
+        "consonance": 0.8897939626257788
+      },
+      "evolutionary_function": "Ceremonial Order influencing Monadic Plane in human context"
+    },
+    {
+      "ray": 7,
+      "plane": 3,
+      "strength": 0.6,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#8000FF",
+        "plane_color": "#FFD700",
+        "blended_color": "#b25699",
+        "blend_strength": 0.6
+      },
+      "frequency_harmony": {
+        "ray_frequency": 810.0,
+        "plane_frequency": 529.0,
+        "harmonic_ratio": 1.5311909262759924,
+        "consonance": 0.8650858544562552
+      },
+      "evolutionary_function": "Ceremonial Order influencing Atmic Plane in human context"
+    },
+    {
+      "ray": 7,
+      "plane": 4,
+      "strength": 0.36,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "subtle_resonance",
+      "color_blend": {
+        "ray_color": "#8000FF",
+        "plane_color": "#00BFFF",
+        "blended_color": "#2e7aff",
+        "blend_strength": 0.36
+      },
+      "frequency_harmony": {
+        "ray_frequency": 810.0,
+        "plane_frequency": 451.99999999999994,
+        "harmonic_ratio": 1.7920353982300887,
+        "consonance": 0.49023861171366623
+      },
+      "evolutionary_function": "Ceremonial Order influencing Buddhic Plane in human context"
+    },
+    {
+      "ray": 7,
+      "plane": 5,
+      "strength": 0.44000000000000006,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#8000FF",
+        "plane_color": "#FFFF00",
+        "blended_color": "#c78e70",
+        "blend_strength": 0.44000000000000006
+      },
+      "frequency_harmony": {
+        "ray_frequency": 810.0,
+        "plane_frequency": 386.0,
+        "harmonic_ratio": 2.098445595854922,
+        "consonance": 0.6701388888888891
+      },
+      "evolutionary_function": "Ceremonial Order influencing Mental Plane in human context"
+    },
+    {
+      "ray": 7,
+      "plane": 6,
+      "strength": 0.44000000000000006,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "moderate_interaction",
+      "color_blend": {
+        "ray_color": "#8000FF",
+        "plane_color": "#FF69B4",
+        "blended_color": "#c73ad5",
+        "blend_strength": 0.44000000000000006
+      },
+      "frequency_harmony": {
+        "ray_frequency": 810.0,
+        "plane_frequency": 330.0,
+        "harmonic_ratio": 2.4545454545454546,
+        "consonance": 0.3055555555555555
+      },
+      "evolutionary_function": "Ceremonial Order influencing Astral Plane in human context"
+    },
+    {
+      "ray": 7,
+      "plane": 7,
+      "strength": 0.9,
+      "context": "human",
+      "cycle_phase": "balanced",
+      "interaction_type": "primary_channel",
+      "color_blend": {
+        "ray_color": "#8000FF",
+        "plane_color": "#8B4513",
+        "blended_color": "#8106e7",
+        "blend_strength": 0.9
+      },
+      "frequency_harmony": {
+        "ray_frequency": 810.0,
+        "plane_frequency": 282.0,
+        "harmonic_ratio": 2.872340425531915,
+        "consonance": 0.1865079365079365
+      },
+      "evolutionary_function": "Ceremonial Order influencing Physical Plane in human context"
+    }
+  ],
+  "metadata": {
+    "note": "Dynamic relationships - not static mappings",
+    "fourth_emphasis": "Ray 4 and Plane 4 receive special attention",
+    "generated_by": "7rays_relationship_analyzer"
+  }
+}
