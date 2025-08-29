@@ -80,7 +80,7 @@ def train_kg_embeddings():
     print(f"Saved relation mappings: {len(relation_to_id)} relations")
     
     # Test some predictions
-    print("\n🔮 Sample predictions:")
+    print("\nSample predictions:")
     
     # Test what's similar to Ray4
     if 'Ray4' in entity_to_id:
@@ -105,13 +105,13 @@ def train_kg_embeddings():
 if __name__ == "__main__":
     # Make sure data directory exists
     if not Path('data/edges.csv').exists():
-        print("❌ No edges.csv found. Run create_triples.py first!")
+        print("ERROR: No edges.csv found. Run create_triples.py first!")
         exit(1)
     
     # Train the model
     result, embeddings, entity_mapping = train_kg_embeddings()
     
-    print("\n✅ Knowledge graph training complete!")
+    print("\nKnowledge graph training complete!")
     print("Files created:")
     print("- kg_embeddings.npy")
     print("- relation_embeddings.npy") 

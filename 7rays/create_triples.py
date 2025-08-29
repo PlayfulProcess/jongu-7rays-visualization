@@ -241,10 +241,10 @@ if __name__ == "__main__":
     entities_df, triples_df = create_data_files()
     
     # Display summary
-    print("\n📊 Dataset Summary:")
+    print("\nDataset Summary:")
     print(f"- Entities: {len(entities_df)}")
     print(f"- Triples: {len(triples_df)}")
     print(f"- Relations: {triples_df['relation'].nunique()}")
     print(f"- Entity kinds: {list(entities_df['kind'].unique())}")
     
-    print("\n✅ Ready for PyKEEN training!")
+    print("\nReady for PyKEEN training!")

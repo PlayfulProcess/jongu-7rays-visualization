@@ -55,7 +55,7 @@ def load_data():
     umap_2d = UMAP(n_neighbors=15, min_dist=0.1, n_components=2, random_state=42)
     umap_3d = UMAP(n_neighbors=15, min_dist=0.1, n_components=3, random_state=42)
     
-    print("✅ Data loaded successfully!")
+    print("Data loaded successfully!")
 
 def create_fused_embeddings(alpha=0.6):
     """Create fused embeddings from KG and text embeddings"""
@@ -244,7 +244,7 @@ def create_gradio_interface():
     with gr.Blocks(title="Seven Rays Vector Space Explorer", theme=gr.themes.Soft()) as app:
         
         gr.Markdown("""
-        # 🌟 Seven Rays Vector Space Explorer
+        # Seven Rays Vector Space Explorer
         
         **Interactive exploration of Alice Bailey's Seven Rays and Seven Planes through learned vector embeddings**
         
@@ -255,7 +255,7 @@ def create_gradio_interface():
         
         with gr.Tabs():
             
-            with gr.Tab("🎨 Vector Space Visualization"):
+            with gr.Tab("Vector Space Visualization"):
                 with gr.Row():
                     with gr.Column(scale=1):
                         gr.Markdown("### Visualization Controls")
@@ -297,7 +297,7 @@ def create_gradio_interface():
                     outputs=[plot]
                 )
             
-            with gr.Tab("🔍 Semantic Search"):
+            with gr.Tab("Semantic Search"):
                 with gr.Row():
                     with gr.Column():
                         gr.Markdown("### Find Similar Entities")
@@ -320,7 +320,7 @@ def create_gradio_interface():
                     outputs=[similarity_results]
                 )
             
-            with gr.Tab("🧮 Vector Arithmetic"):
+            with gr.Tab("Vector Arithmetic"):
                 with gr.Row():
                     with gr.Column():
                         gr.Markdown("### Ray-Plane Vector Mathematics")
@@ -358,7 +358,7 @@ def create_gradio_interface():
                     outputs=[arithmetic_result, arithmetic_table]
                 )
             
-            with gr.Tab("ℹ️ About"):
+            with gr.Tab("About"):
                 gr.Markdown("""
                 ## About This Vector Space
                 
@@ -407,7 +407,7 @@ def create_gradio_interface():
 
 if __name__ == "__main__":
     # Load data first
-    print("🔄 Loading data and models...")
+    print("Loading data and models...")
     load_data()
     
     # Create and launch the app

@@ -9,15 +9,15 @@ from pathlib import Path
 
 def run_command(cmd, description):
     """Run a command and handle errors"""
-    print(f"\n🔄 {description}...")
+    print(f"\n[Running] {description}...")
     try:
         result = subprocess.run(cmd, shell=True, check=True, capture_output=True, text=True)
-        print(f"✅ {description} completed successfully")
+        print(f"[Success] {description} completed successfully")
         if result.stdout:
             print(result.stdout)
         return True
     except subprocess.CalledProcessError as e:
-        print(f"❌ {description} failed")
+        print(f"[Error] {description} failed")
         if e.stdout:
             print("STDOUT:", e.stdout)
         if e.stderr:
@@ -40,7 +40,7 @@ def main():
         return False
     
     # Step 3: Launch the Gradio app
-    print("\n🚀 Ready to launch the Gradio app!")
+    print("\n[Ready] Ready to launch the Gradio app!")
     print("Run: python app.py")
     
     return True
@@ -50,4 +50,4 @@ if __name__ == "__main__":
     if not success:
         sys.exit(1)
     
-    print("\n✅ Setup complete! The Seven Rays Vector Space is ready to explore.")
+    print("\n[Complete] Setup complete! The Seven Rays Vector Space is ready to explore.")
